@@ -1,0 +1,2 @@
+create a minimal working example of a python script that uses the `requests` library to make a GET request to a public API and print the response in JSON format. The script should handle any potential errors that may occur during the request.
+use the `json` library to format the output. The API endpoint can be any public API that returns JSON data, such as the JSONPlaceholder API or the OpenWeatherMap API. The script should include comments explaining each step of the process.
